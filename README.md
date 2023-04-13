@@ -1,1 +1,3 @@
-# imc
+O IMC (Índice de Massa Corporal) é uma medida que foi adotada pela Organização Mundial de Saúde para calcular e avaliar o peso ideal de um indivíduo a partir de sua altura e peso. Este parâmetro é comumente usado para nortear o trabalho de profissionais de saúde e educadores físicos.
+
+Para obter o IMC de uma pessoa, é necessário dividir o peso (em quilogramas) pela altura (em metros) elevada ao quadrado (altura x altura). Vale lembrar, entretanto, que a forma de avaliar o IMC pode variar em função de gênero e idade, além de existirem valores de referência distintos de acordo com um determinado grupo de indivíduos, porém estes não serão levados em consideração nesta aula prática.
